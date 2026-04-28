@@ -1,3 +1,5 @@
+; DOS program for doubling user-inputted int
+
 org 100h
 
 JMP main

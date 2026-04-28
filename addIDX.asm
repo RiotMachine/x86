@@ -1,3 +1,5 @@
+; DOS program for total-summing a decrementing index
+
 org 100h
 
 JMP main

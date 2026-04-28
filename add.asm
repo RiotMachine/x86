@@ -1,3 +1,5 @@
+; DOS program for summing hard-coded number of ints
+
 org 100h
 
 JMP main
